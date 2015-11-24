@@ -28,6 +28,7 @@ RUN apt-get update \
   libmagickwand-dev \
   libmysqlclient-dev \
   libncurses5-dev \
+  libpq-dev \
   libreadline-dev \
   libssl-dev \
   libxml2-dev \
